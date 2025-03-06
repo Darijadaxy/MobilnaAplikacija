@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Stil za DatePickerDialog -->
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Promenite boje po potrebi -->
+        <item name="colorAccent">#FFBB86FC</item> <!-- Boja naglaska (selektovana godina, mesec, dan) -->
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- Boja primarnog teksta -->
+        <item name="android:background">#FF393E46</item> <!-- Boja pozadine -->
+    </style>
+
+</resources>
